@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  badge_id: 1
+  votes: 1
+
+two:
+  name: MyString
+  badge_id: 1
+  votes: 1
